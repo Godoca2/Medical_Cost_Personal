@@ -10,4 +10,4 @@ Además de los beneficios individuales, el seguro de enfermedad también desempe
 En este cuaderno, realizaremos un análisis detallado de los datos de una compañía de seguros de enfermedad para prever los importes futuros de las reclamaciones de seguros e identificar los factores que contribuyen al aumento de los costes sanitarios. El conjunto de datos comprende información de 1.338 asegurados, cada uno de ellos descrito por siete atributos relacionados con su salud y perfiles demográficos, como edad, sexo, IMC y hábito de fumar.Mi objetivo principal es predecir el importe total de las reclamaciones, o «gastos», facturados a la compañía de seguros. Para mejorar la precisión de nuestras predicciones, desarrollaremos modelos distintos para cada una de las cuatro regiones en las que se encuentran los asegurados de la empresa: Suroeste, Sureste, Noroeste y Noreste. El objetivo de este planteamiento es ofrecer predicciones de costes más precisas y adaptadas a las diferencias regionales de los costes sanitarios.
 
 
- ![Seguros de Salud](images/Seguro_Salud.jpg)
+ ![Seguros de Salud](Images/Seguro_Salud.jpg)
