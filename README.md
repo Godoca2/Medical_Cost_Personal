@@ -1,4 +1,4 @@
-# Seguros de salud (Modelo de regresión lineal)
+# Análisis de Datos: Seguros de salud (Modelo de regresión lineal)
 
 El seguro de enfermedad es un componente crucial del bienestar personal y público, ya que proporciona protección financiera frente a los elevados costes de la atención médica. Implica un contrato entre un individuo y una compañía de seguros, en el que el individuo paga una prima y, a cambio, la aseguradora cubre gastos médicos específicos. Esta cobertura puede incluir visitas al médico, estancias en el hospital, medicamentos recetados, atención preventiva y otros servicios médicos.
 
@@ -8,3 +8,6 @@ Tener un seguro médico es importante porque no sólo ayuda a las personas a acc
 Además de los beneficios individuales, el seguro de enfermedad también desempeña un papel clave en la salud pública al contribuir a mantener una población sana, reducir la carga de los sistemas sanitarios y apoyar la estabilidad económica.
 
 En este cuaderno, realizaremos un análisis detallado de los datos de una compañía de seguros de enfermedad para prever los importes futuros de las reclamaciones de seguros e identificar los factores que contribuyen al aumento de los costes sanitarios. El conjunto de datos comprende información de 1.338 asegurados, cada uno de ellos descrito por siete atributos relacionados con su salud y perfiles demográficos, como edad, sexo, IMC y hábito de fumar.Mi objetivo principal es predecir el importe total de las reclamaciones, o «gastos», facturados a la compañía de seguros. Para mejorar la precisión de nuestras predicciones, desarrollaremos modelos distintos para cada una de las cuatro regiones en las que se encuentran los asegurados de la empresa: Suroeste, Sureste, Noroeste y Noreste. El objetivo de este planteamiento es ofrecer predicciones de costes más precisas y adaptadas a las diferencias regionales de los costes sanitarios.
+
+
+ ![Seguros de Salud](images/Seguro_Salud.jpg)
