@@ -1,4 +1,4 @@
-# Medical_Cost_Personal
+# Seguros de salud (Modelo de regresión lineal)
 
 El seguro de enfermedad es un componente crucial del bienestar personal y público, ya que proporciona protección financiera frente a los elevados costes de la atención médica. Implica un contrato entre un individuo y una compañía de seguros, en el que el individuo paga una prima y, a cambio, la aseguradora cubre gastos médicos específicos. Esta cobertura puede incluir visitas al médico, estancias en el hospital, medicamentos recetados, atención preventiva y otros servicios médicos.
 
